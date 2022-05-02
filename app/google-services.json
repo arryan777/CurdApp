@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "115509553627",
+    "firebase_url": "https://curdapp-6e2d6-default-rtdb.firebaseio.com",
+    "project_id": "curdapp-6e2d6",
+    "storage_bucket": "curdapp-6e2d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115509553627:android:a43cc66705bf16b4dadffe",
+        "android_client_info": {
+          "package_name": "com.arryan.curdapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115509553627-rlft8p7f8n0d67u3vlr14qma116n722r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK6zfoM6p8fM9I_iyCycPc2UjMVmo1LCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115509553627-rlft8p7f8n0d67u3vlr14qma116n722r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
